@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework assignments 1", "homework assignments 1\homework assignments 1.csproj", "{DC60AD28-EA0C-4138-9B98-3E65A4EFE408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nested for loop example", "nested for loop example\nested for loop example.csproj", "{7EF531B9-F7FF-4B94-AFE3-3CEC6313A78C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nested for loop example 2", "nested for loop example 2\nested for loop example 2.csproj", "{F3771F6F-0DA0-4C7F-88FA-C7CCB6FA8A27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nested for loop exapmle3", "nested for loop exapmle3\nested for loop exapmle3.csproj", "{77FF8EA2-65F9-4A58-A61C-C97F95ED35D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nested for loop  exapmle 4 star reverse pyranid", "nested for loop  exapmle 4 star pyranid\nested for loop  exapmle 4 star reverse pyranid.csproj", "{EA860A9E-048B-40B4-AF8A-FE9FBB9AE7F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nested for loop example  5 pyramid", "nested for loop example  5 pyramid\nested for loop example  5 pyramid.csproj", "{695A6E9A-E308-44AF-BFB5-0A78CCF0E6A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC60AD28-EA0C-4138-9B98-3E65A4EFE408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC60AD28-EA0C-4138-9B98-3E65A4EFE408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC60AD28-EA0C-4138-9B98-3E65A4EFE408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC60AD28-EA0C-4138-9B98-3E65A4EFE408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF531B9-F7FF-4B94-AFE3-3CEC6313A78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF531B9-F7FF-4B94-AFE3-3CEC6313A78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF531B9-F7FF-4B94-AFE3-3CEC6313A78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF531B9-F7FF-4B94-AFE3-3CEC6313A78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3771F6F-0DA0-4C7F-88FA-C7CCB6FA8A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3771F6F-0DA0-4C7F-88FA-C7CCB6FA8A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3771F6F-0DA0-4C7F-88FA-C7CCB6FA8A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3771F6F-0DA0-4C7F-88FA-C7CCB6FA8A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FF8EA2-65F9-4A58-A61C-C97F95ED35D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FF8EA2-65F9-4A58-A61C-C97F95ED35D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FF8EA2-65F9-4A58-A61C-C97F95ED35D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FF8EA2-65F9-4A58-A61C-C97F95ED35D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA860A9E-048B-40B4-AF8A-FE9FBB9AE7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA860A9E-048B-40B4-AF8A-FE9FBB9AE7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA860A9E-048B-40B4-AF8A-FE9FBB9AE7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA860A9E-048B-40B4-AF8A-FE9FBB9AE7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695A6E9A-E308-44AF-BFB5-0A78CCF0E6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695A6E9A-E308-44AF-BFB5-0A78CCF0E6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695A6E9A-E308-44AF-BFB5-0A78CCF0E6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695A6E9A-E308-44AF-BFB5-0A78CCF0E6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36265211-60FF-4F3A-90D1-FBA6BC1A15D1}
+	EndGlobalSection
+EndGlobal
